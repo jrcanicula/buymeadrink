@@ -1,0 +1,54 @@
+::selection {
+  background-color: #cc2b5e;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #cc2b5e;
+  color: #fff;
+}
+
+/*-------------------------------------------------------*/
+  /* Theme color */
+/*-------------------------------------------------------*/
+
+.load-circle .one,
+.header-style-1 .navbar-nav > li > a:hover,
+.header-style-1 .navbar-nav > li > a.current,
+.price-table-01.standard-price .price-head,
+.social-icons li a,
+.btn-style-01,
+.bg-theme {
+	background: #f03a37;
+}
+
+.blog-item .blog-action a,
+.feature-01 .feature-icon i,
+.statistic-section .counter .count,
+.theme-color {
+	color: #f03a37;
+}
+
+
+/*-------------------------------------------------------*/
+  /* Theme 2nd color */
+/*-------------------------------------------------------*/
+
+.header-style-1,
+.price-table-01 .price-head,
+.bg-theme2d {
+	background: #050d18;
+}
+
+.social-icons li a,
+.blog-item h3 a,
+.feature-01 .feature-details h5,
+.section-heading-01 h2,
+.statistic-section .counter label,
+.theme-color2n {
+	color: #050d18;	
+}
+
+.load-circle,
+.statistic-section .counter:after{
+ 	border-color: #050d18;
+ }	

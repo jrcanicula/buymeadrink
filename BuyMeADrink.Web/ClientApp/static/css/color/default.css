@@ -1,0 +1,59 @@
+::selection {
+  background-color: #cc2b5e;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #cc2b5e;
+  color: #fff;
+}
+
+/*-------------------------------------------------------*/
+  /* Theme color */
+/*-------------------------------------------------------*/
+
+.feature-02 .feature-icon i,
+.section-heading-01 h2:after,
+.section-heading-01 h2:before,
+.load-circle .one,
+.header-style-1 .navbar-nav > li > a:hover,
+.header-style-1 .navbar-nav > li > a.current,
+.price-table-01.standard-price .price-head,
+.social-icons li a,
+.btn-style-01,
+.bg-theme {
+	background: #1ad5b1;
+}
+
+.blog-item .blog-action a,
+.feature-01 .feature-icon i,
+.statistic-section .counter .count,
+.theme-color {
+	color: #1ad5b1;
+}
+
+
+/*-------------------------------------------------------*/
+  /* Theme 2nd color */
+/*-------------------------------------------------------*/
+
+.header-style-1,
+.price-table-01 .price-head,
+.bg-theme2d {
+	background: #171838;
+}
+
+.feature-02 .feature-details h5,
+.section-heading-02 h2,
+.social-icons li a,
+.blog-item h3 a,
+.feature-01 .feature-details h5,
+.section-heading-01 h2,
+.statistic-section .counter label,
+.theme-color2n {
+	color: #171838;	
+}
+
+.load-circle,
+.statistic-section .counter:after{
+ 	border-color: #171838;
+ }
